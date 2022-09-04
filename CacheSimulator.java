@@ -1,4 +1,4 @@
-//Names: Amani Arora, Hank Wai
+
 
 
 import java.io.FileInputStream;
